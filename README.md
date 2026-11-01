@@ -41,4 +41,4 @@ As required by the assignment specification, the Git commit history contains two
 
 ## UML Class Diagram
 
-City Sensor Observer Visitor Architecture-2026-11-01-130150.png
+![City Sensor Observer Visitor Architecture-2026-11-01-130150.png](<City Sensor Observer Visitor Architecture-2026-11-01-130150.png>)
